@@ -1,0 +1,2 @@
+Left treap inorder: [4, 6]
+Right treap inorder: [8, 9, 10]

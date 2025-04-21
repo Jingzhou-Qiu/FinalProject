@@ -1,0 +1,7 @@
+Basic
+5
+Insert 10
+Insert 5
+Search 7
+Delete 10
+Inorder

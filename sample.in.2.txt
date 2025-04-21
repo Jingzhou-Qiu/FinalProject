@@ -1,0 +1,8 @@
+Split
+5
+Insert 8
+Insert 4
+Insert 10
+Insert 6
+Insert 9
+7
